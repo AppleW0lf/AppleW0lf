@@ -6,7 +6,7 @@ C# Developer
 
 * 🌍  I'm based in Innopolis
 * ✉️  You can contact me at [Stealth102@yandex.ru](mailto:Stealth102@yandex.ru)
-* 🧠  I'm learning Kotlin, Japanese
+* 🧠  I'm learning Unity, Japanese
 
 ### Skills
 
